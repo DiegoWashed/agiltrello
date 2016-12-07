@@ -3,4 +3,4 @@ language: node_js
 node_js:
   - 0.6
 
-script: phantomjs js/testsIndex.js
+script: phantomjs js/testsIndex.html
